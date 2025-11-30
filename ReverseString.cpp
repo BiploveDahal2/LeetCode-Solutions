@@ -1,5 +1,5 @@
 /*
- * Problem: Reverse String (LeetCode #344)
+ * Problem: Reverse String (LeetCode #2)
  * Language: C++
  * Description: Write a function that reverses a string. The input string is given as an array of characters s.
  */
