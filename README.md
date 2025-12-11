@@ -5,7 +5,7 @@ This repository contains my daily solutions to LeetCode problems, implemented in
 
 ## 🛠️ Tech Stack
 * **Language:** C++ (STL)
-* **Topics:** Arrays, Hash Maps, Pointers, Linked Lists, Stacks, DP
+* **Topics:** Arrays, Hash Maps, Pointers, Linked Lists, Stacks, DP, Binary Search
 * **Source:** LeetCode
 
 ## 📂 Progress
@@ -19,3 +19,6 @@ This repository contains my daily solutions to LeetCode problems, implemented in
 | Maximum Subarray | Medium | Dyn. Programming | [Link](./MaximumSubarray.cpp) |
 | Best Time to Buy Stock | Easy | Sliding Window | [Link](./BestTimeStock.cpp) |
 | Contains Duplicate | Easy | Hash Set | [Link](./ContainsDuplicate.cpp) |
+| Binary Search | Easy | Binary Search | [Link](./BinarySearch.cpp) |
+| Valid Anagram | Easy | String/Hash Map | [Link](./ValidAnagram.cpp) |
+| Reverse Linked List | Easy | Linked List | [Link](./ReverseLinkedList.cpp) |
