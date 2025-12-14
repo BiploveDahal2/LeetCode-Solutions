@@ -22,3 +22,6 @@ This repository contains my daily solutions to LeetCode problems, implemented in
 | Binary Search | Easy | Binary Search | [Link](./BinarySearch.cpp) |
 | Valid Anagram | Easy | String/Hash Map | [Link](./ValidAnagram.cpp) |
 | Reverse Linked List | Easy | Linked List | [Link](./ReverseLinkedList.cpp) |
+| **3Sum** | **Medium** | **Two Pointers** | **[Link](./3Sum.cpp)** |
+| **Linked List Cycle** | **Easy** | **Linked List** | **[Link](./LinkedListCycle.cpp)** |
+| **Group Anagrams** | **Medium** | **Hash Map** | **[Link](./GroupAnagrams.cpp)** |
