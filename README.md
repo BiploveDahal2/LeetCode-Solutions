@@ -11,7 +11,7 @@ This repository contains my daily solutions to LeetCode problems, implemented in
 ## 📂 Progress
 | Problem | Difficulty | Topic | Solution |
 | :--- | :--- | :--- | :--- |
-| Two Sum | Easy | Hash Map | [Link](./TwoSum.cpp) |
+| Two Sum | Easy | Hash Map | [Link](TwoSum.cpp) |
 | Palindrome Number | Easy | Math | [Link](./PalindromeNumber.cpp) |
 | Reverse String | Easy | Two Pointers | [Link](./ReverseString.cpp) |
 | Valid Parentheses | Easy | Stack | [Link](./ValidParentheses.cpp) |
